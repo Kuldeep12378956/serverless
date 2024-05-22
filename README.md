@@ -1,4 +1,7 @@
-# serverless
+# S3 replication using serverless. 
+
+
+## Below are the steps to perform S3 replication using serverless. 
 
 ![serverless-s3-replication](https://github.com/Kuldeep12378956/serverless/assets/154441092/960b17d5-3384-46e7-ab70-caaa86d5097d)
 
